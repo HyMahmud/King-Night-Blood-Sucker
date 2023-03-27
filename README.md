@@ -1,6 +1,7 @@
 
 # Nick: King Night Blood Sucker
 # AUTHOR: LuXo KING Gaming
+# Note: New Nick HyMahmud
 # Version: 0.6
 
 Server Support Discord https://discord.gg/E5myyEy5AN
